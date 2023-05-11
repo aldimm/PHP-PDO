@@ -1,0 +1,68 @@
+.table
+{
+    margin-top: 50px;
+    height: auto;
+    width: auto;
+}
+
+.h1
+{
+    margin-left : 670px;
+}
+
+.elipsP
+{
+    width : 275px;
+    height : 40px;
+    margin-left: 650px;
+    background-color: darkolivegreen;
+    border-radius: 5px;
+}
+
+.elipsC
+{
+    width : 318px;
+    height : 40px;
+    margin-left: 650px;
+    background-color:darksalmon;
+    border-radius: 5px;
+}
+
+.button
+{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: green;
+}
+
+.inputSubmitC
+{
+    border: 1;
+    color: black;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    background-color: darksalmon;
+}
+
+.inputSubmitP
+{
+    border: 1;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    background-color: darkolivegreen;
+}
+
+.underline
+{
+    text-decoration:underline;
+}
